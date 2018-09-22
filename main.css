@@ -1,0 +1,101 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    background: #ecedef;
+    font-family: "Open sans", sans-serif;
+    color: #333;
+
+}
+
+h3{
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: rgb(255, 255, 255);
+}
+
+h4{
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+    background: rgb(255, 252, 252);
+}
+
+#container{
+    width: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 14px;
+}
+
+#container-top{
+    width: 400px;
+}
+
+#container-top img{
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    width: 400px;
+}
+
+#container-bottom{
+    width: 360px;
+    padding: 10px 20px 20px;
+}
+
+#btns{
+    margin: 40px 0 10px 0;
+    width: 200px;
+    float: left;
+}
+
+#play, #backward, #forward{
+    width: 30px;
+    height: 30px;
+    background: #fff;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    font-size: 26px;
+    line-height: 26px;
+    color: #333;
+}
+
+#timeNow{
+    margin: 40px 0 10px 0;
+    width: 160px;
+    float: left;
+    text-align: right;
+    line-height: 16px;
+    font-size: 16px;
+    padding-top: 14px;
+}
+
+#durationBar{
+    width: 360px;
+    height: 10px;
+    background: #333;
+    display: flex;
+    cursor: pointer;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3), 0 3px 10px 0 rgba(0, 0, 0, 0.3);
+
+
+}
+
+#expandingBar{
+    height: 10px;
+    width: 10px;
+    background-color: #ecedef;
+}
+
+#movingBar{
+    height: 10px;
+    width: 10px;
+    background-color: #ecedef;
+
+}

@@ -4,11 +4,6 @@ body, html{
     background: #ecedef;
     font-family: "Open sans", sans-serif;
     color: #333;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
 }
 
 h3{

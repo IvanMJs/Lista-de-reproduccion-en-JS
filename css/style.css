@@ -4,6 +4,10 @@ body, html{
     background: #ecedef;
     font-family: "Open sans", sans-serif;
     color: #333;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 
 }
 
@@ -42,21 +46,12 @@ h4{
     border-top-right-radius: 14px;
     width: 400px;
     height: 200px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
 img{
     border-top-left-radius: 14px;
     border-top-right-radius: 14px;
     width: 400px;
     height: 200px;
-    background: fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
 
 #container-bottom{

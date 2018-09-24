@@ -107,9 +107,3 @@ img{
     background-color: #ecedef;
 
 }
-
-@media screen and (max-width: 480px) {
-    #container-top {
-      width: calc(100% - 80px);
-    }
-  }

@@ -8,7 +8,7 @@ var nombre = ["Amorfoda", "Adios", "Alma diamante", "Nutshell",
 var artista = ["Badbunny", "Gustavo Cerati", "Spinetta", "Alice in Chains", "Cold war kids", "John Mayer", "Milky Chance",
 "Rival Sons", "Rolling Stone", "Sterophonics", "Social Distortion", "Social Distortion"];
 var imagen = ["assets/imagen1.jpg", "assets/imagen2.jpg","assets/imagen3.jpg", "assets/imagen4.jpg", "assets/imagen5.jpg", "assets/imagen6.jpg", "assets/imagen7.jpg", "assets/imagen8.jpg"
-, "assets/imagen8.jpg", "assets/imagen9.jpg", "assets/imagen10.jpg", "assets/imagen11.jpg", "assets/imagen12.jpg"];
+, "assets/imagen9.jpg", "assets/imagen10.jpg", "assets/imagen11.jpg", "assets/imagen12.jpg"];
 
 
 //Variables de cada id

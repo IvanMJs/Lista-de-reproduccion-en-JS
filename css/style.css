@@ -37,10 +37,18 @@ h4{
     width: 400px;
 }
 
-#container-top img{
+#container-top{
     border-top-left-radius: 14px;
     border-top-right-radius: 14px;
     width: 400px;
+    height: 200px;
+}
+img{
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    width: 400px;
+    height: 200px;
+    background: fixed;
 }
 
 #container-bottom{

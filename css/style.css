@@ -1,6 +1,6 @@
 body, html{
     margin: 0;
-    padding: 0;
+    padding: 2rem;
     background: #ecedef;
     font-family: "Open sans", sans-serif;
     color: #333;
@@ -22,7 +22,6 @@ h4{
 }
 
 #container{
-    border: 2rem;
     width: 400px;
     position: fixed;
     top: 50%;

@@ -1,6 +1,5 @@
 body, html{
     margin: 0;
-    padding: 2rem;
     background: #ecedef;
     font-family: "Open sans", sans-serif;
     color: #333;
@@ -15,7 +14,7 @@ h3{
 
 h4{
     margin: 0;
-    padding: 0;
+    
     color: rgb(0, 0, 0);
     font-weight: 300;
     background: rgb(255, 252, 252);
@@ -30,7 +29,6 @@ h4{
     background: #fff;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
     border-radius: 14px;
-    padding: 2rem;
 }
 
 #container-top{
